@@ -1,6 +1,6 @@
 {
   "name": "@josephdaw/http",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A very basic, custom http request wrapper",
   "main": "index.js",
   "scripts": {
