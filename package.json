@@ -1,0 +1,22 @@
+{
+  "name": "@jd/http",
+  "version": "1.0.0",
+  "description": "A custom http request wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/josephdaw/http.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Joseph Daw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephdaw/http/issues"
+  },
+  "homepage": "https://github.com/josephdaw/http#readme"
+}
