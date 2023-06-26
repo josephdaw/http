@@ -1,5 +1,5 @@
 const axios = require('axios');
-const http = require('./http');
+const http = require('./index');
 
 describe('http module', () => {
   describe('given a GET request', () => {
