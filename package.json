@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/josephdaw/http/issues"
   },
-  "homepage": "https://github.com/josephdaw/http#readme"
+  "homepage": "https://github.com/josephdaw/http#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
