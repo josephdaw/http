@@ -1,5 +1,5 @@
 # HTTP wrapper
-[![CI](https://github.com/josephdaw/http/actions/workflows/build.yml/badge.svg)](https://github.com/josephdaw/http/actions/workflows/build.yml)
+[![CI](https://github.com/josephdaw/http/actions/workflows/test.yml/badge.svg)](https://github.com/josephdaw/http/actions/workflows/test.yml)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 
