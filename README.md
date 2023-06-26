@@ -10,6 +10,7 @@
 - [Security](#security)
 - [Contributing](#contributing)
 - [Changes](#changelog)
+- [License](#license)
 
 
 ## Description
