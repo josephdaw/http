@@ -1,7 +1,7 @@
 {
   "name": "@jd/http",
   "version": "1.0.0",
-  "description": "A custom http request wrapper",
+  "description": "A very basic, custom http request wrapper",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,7 +11,10 @@
     "url": "git+ssh://git@github.com/josephdaw/http.git"
   },
   "keywords": [
-    "http"
+    "http",
+    "request",
+    "node",
+    "javascript"
   ],
   "author": "Joseph Daw",
   "license": "ISC",
