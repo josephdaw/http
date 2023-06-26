@@ -1,5 +1,5 @@
 {
-  "name": "@jd/http",
+  "name": "@josephdaw/http",
   "version": "1.0.0",
   "description": "A very basic, custom http request wrapper",
   "main": "index.js",
