@@ -21,13 +21,13 @@ This is a custom http wrapper. This module is to enable the user to absract away
 ## Installation
 ### Using npm
 ```bash
-npm install @jd/http
+npm install @josephdaw/http
 ```
 
 ## Usage
 ### Importing
 ```javascript
-const http = require('@jd/http');
+const http = require('@josephdaw/http');
 ```
 
 ### GET
