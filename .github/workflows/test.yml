@@ -1,18 +1,17 @@
-name: CI
-on: 
+name: Node.js CI
+on:
   push:
-    branches:
-      - 'main'
+    branches: [ "main" ]
   pull_request:
-    branches:
-      - 'main'
+    branches: [ "main" ]
+
 jobs:
   build_and_test:
     name: Build on ${{ matrix.os }} with Node ${{ matrix.node }}
     strategy:
       matrix:
         os: [ubuntu-22.04]
-        node: [18.x]
+        node: [14.x, 16.x, 18.x]
     runs-on: ${{ matrix.os }}
     steps:
       - name: Checkout Codebase

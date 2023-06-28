@@ -1,3 +1,4 @@
+name: Release New Version
 on:
   push:
     branches:
@@ -5,10 +6,6 @@ on:
 permissions:
   contents: write
   pull-requests: write
-name: Release
-env:
-  GITHUB_USER: ${{ secrets.USER }}
-  GITHUB_TOKEN: ${{ secrets.PAT }}
 jobs:
   release-please:
     runs-on: ubuntu-latest
