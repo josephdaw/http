@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/josephdaw/http/compare/v0.0.2...v0.0.3) (2023-06-28)
+
+
+### Bug Fixes
+
+* **Publish:** adding reference to main branch ([d9cd659](https://github.com/josephdaw/http/commit/d9cd6592d2d1d2060bfc5c7ac19d24477f743ac0))
+
 ## [0.0.2](https://github.com/josephdaw/http/compare/v1.0.0...v0.0.2) (2023-06-26)
 
 
