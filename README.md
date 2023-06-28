@@ -1,5 +1,7 @@
 # HTTP wrapper
-[![CI](https://github.com/josephdaw/http/actions/workflows/test.yml/badge.svg)](https://github.com/josephdaw/http/actions/workflows/test.yml)
+[![npm (scoped)](https://img.shields.io/npm/v/%40josephdaw/http?logo=npm)](https://www.npmjs.com/package/@josephdaw/http)
+![GitHub](https://img.shields.io/github/license/josephdaw/http)
+[![Node.js CI](https://github.com/josephdaw/http/actions/workflows/node-testing.yml/badge.svg)](https://github.com/josephdaw/http/actions/workflows/node-testing.yml)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 
@@ -19,7 +21,7 @@ This is a custom http wrapper. This module is to enable the user to absract away
 ## Installation
 ### Using npm
 ```bash
-npm install @jd/http`
+npm install @jd/http
 ```
 
 ## Usage
