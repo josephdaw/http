@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.5-alpha](https://github.com/josephdaw/http/compare/v0.0.4-alpha...v0.0.5-alpha) (2023-06-28)
+
+
+### Bug Fixes
+
+* **Publish:** trying new publish action ([d68763d](https://github.com/josephdaw/http/commit/d68763d77b1e729cbadbdfb74b587bdb863070cf))
+
 ## [0.0.3](https://github.com/josephdaw/http/compare/v0.0.2...v0.0.3) (2023-06-28)
 
 
