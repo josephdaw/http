@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.1](https://github.com/josephdaw/http/compare/v1.0.0...v1.0.1) (2023-09-05)
+
+
+### Bug Fixes
+
+* **Changelog:** Removing duplicated information ([9e13f6f](https://github.com/josephdaw/http/commit/9e13f6fa3cf32c290d5b71a7dcc4bc40b4a74f99))
+
+
+### Miscellaneous Chores
+
+* release 1.0.0 ([3a53442](https://github.com/josephdaw/http/commit/3a53442ff9d917b51f73a3dc0bb61053933ee38a))
+* release 1.0.1 ([ddc4080](https://github.com/josephdaw/http/commit/ddc4080b680541b823f822811573e6593635f198))
+
 ## [1.0.0](https://github.com/josephdaw/http/compare/v0.1.0...v1.0.0) (2023-06-28)
 
 
