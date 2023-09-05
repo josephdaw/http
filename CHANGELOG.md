@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/josephdaw/http/compare/v1.0.1...v1.0.2) (2023-09-05)
+
+
+### Bug Fixes
+
+* **Changelog:** cleaning up errors ([2b9b751](https://github.com/josephdaw/http/commit/2b9b751bf4645ff58dcbfa1dfeb09e226be30c50))
+
 ## [1.0.1](https://github.com/josephdaw/http/compare/v1.0.0...v1.0.1) (2023-09-05)
 
 
