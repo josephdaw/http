@@ -1,19 +1,5 @@
 # Changelog
 
-## [1.0.0](https://github.com/josephdaw/http/compare/v1.0.0...v1.0.0) (2023-06-28)
-
-
-### Miscellaneous Chores
-
-* release 1.0.0 ([3a53442](https://github.com/josephdaw/http/commit/3a53442ff9d917b51f73a3dc0bb61053933ee38a))
-
-## [1.0.0](https://github.com/josephdaw/http/compare/v1.0.0...v1.0.0) (2023-06-28)
-
-
-### Miscellaneous Chores
-
-* release 1.0.0 ([3a53442](https://github.com/josephdaw/http/commit/3a53442ff9d917b51f73a3dc0bb61053933ee38a))
-
 ## [1.0.0](https://github.com/josephdaw/http/compare/v0.1.0...v1.0.0) (2023-06-28)
 
 
